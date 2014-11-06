@@ -1,4 +1,1 @@
-WNM498_2014Fall
-===============
-
-Test in Class - Super Cool
+This is a git project of which I'm proud.... And what.
